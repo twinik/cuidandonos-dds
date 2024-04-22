@@ -1,3 +1,4 @@
+```java
 Class Viaje {
     private Integer destinoInicial;
     private Integer destinoFinal;
@@ -27,3 +28,4 @@ Class Viaje {
         this.demoraAproxMins = demora;
     }
 }
+```
