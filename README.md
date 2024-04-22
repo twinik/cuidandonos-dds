@@ -1,2 +1,2 @@
 # cuidandonos-dds
-Tobias WINIK; Thomas LUCA
+#Integrantes: Tobias WINIK; Thomas LUCA
