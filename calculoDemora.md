@@ -7,7 +7,6 @@ Class Viaje {
     private Float demoraAproxMins;
 
     public void calcularDemoraAproxMins(CalculadorDistancia calculadorDistancia, CalculadorDemora calculadorDemora) {
-
         Float demora = 0;
         Float distanciaEnMetros = 0;
 
